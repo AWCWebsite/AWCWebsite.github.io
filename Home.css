@@ -1,0 +1,159 @@
+.u-section-1-1 {
+  background-image: url("images/Odle-Mountains-in-Seceda-Dolomites-Italy-photo-landscape-4K-Ultra-HD-Wallpaper-for-Desktop-Laptop-1920x1440.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 792px;
+}
+
+.u-section-1-1 .u-shape-1 {
+  width: 287px;
+  height: 52px;
+  animation-duration: 1000ms;
+  margin: 208px auto 0;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-weight: normal;
+  animation-duration: 1000ms;
+  width: 490px;
+  margin: -52px auto 0;
+}
+
+.u-section-1-1 .u-group-1 {
+  width: 570px;
+  min-height: 196px;
+  margin: 32px auto 60px;
+}
+
+.u-section-1-1 .u-container-layout-1 {
+  padding: 19px 0;
+}
+
+.u-section-1-1 .u-text-2 {
+  font-size: 4.5rem;
+  animation-duration: 1000ms;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 653px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 375px;
+  }
+
+  .u-section-1-1 .u-group-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 236px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1-1 .u-text-2 {
+    font-size: 2.25rem;
+  }
+}.u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/Odle-Mountains-in-Seceda-Dolomites-Italy-photo-landscape-4K-Ultra-HD-Wallpaper-for-Desktop-Laptop-1920x1440.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 792px;
+}
+
+.u-section-1-2 .u-shape-1 {
+  width: 453px;
+  height: 240px;
+  background-image: none;
+  margin: 262px auto 0 333px;
+}
+
+.u-section-1-2 .u-text-1 {
+  font-size: 1.5rem;
+  width: 409px;
+  margin: -234px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 653px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 500px;
+  }
+
+  .u-section-1-2 .u-shape-1 {
+    margin-left: 267px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 375px;
+  }
+
+  .u-section-1-2 .u-shape-1 {
+    margin-left: 87px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 236px;
+  }
+
+  .u-section-1-2 .u-shape-1 {
+    width: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 340px;
+  }
+}.u-block-873f-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-873f-5 {
+  position: absolute;
+  left: 0;
+  width: 65px;
+  height: 65px;
+  right: auto;
+}
+
+.u-block-873f-6 {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: auto;
+  top: 366px;
+  right: 0;
+}
